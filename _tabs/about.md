@@ -16,5 +16,6 @@ order: 4
 
 ## 其他~
 
-**邮箱**：[tew@apache.org](mailto://tew@apache.org)
+**邮箱**：[tew@apache.org](mailto:tew@apache.org)
+
 **Github**：[github.com/tew-axiom](https://github.com/tew-axiom)
